@@ -1,5 +1,5 @@
 # NoteLibrary
 
-Genel Not Defteri ve Progrlama Üzerine Yardımcı Olacak Bir Uygulamadır.
+Genel Not Defteri ve Programlama Üzerine Yardımcı Olacak Bir Uygulamadır.
 
 Geliştirici: TAKTAK26
